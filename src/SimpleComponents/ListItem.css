@@ -1,0 +1,54 @@
+.Card {
+  padding: 1%;
+  background-image: linear-gradient(to bottom right, #666565, #1b1b1b);
+  margin: 1%;
+  text-align: left;
+}
+
+.Description{
+  font-size: 15px;
+  font-weight: lighter;
+  min-width: 10vh;
+  text-align: justify;
+  background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(255, 221, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #d9ecc7;
+}
+
+ .Details {
+padding-left: 3vh;
+ }
+
+ .Image {
+  max-height: 100%;
+  height: 19vh;
+  margin: auto;
+} 
+
+ .ImageFrame {
+  padding: 0.5vh;
+  margin-left: 2vh;
+  margin-right:2vh;
+  width: 20vh;
+  height: 20vh;
+  background-image: linear-gradient(to bottom right, #f6ea41, #f048c6);
+} 
+
+.Name {
+  font-weight: inherit;
+  font-size: 4vw;
+  margin-top: -2%;
+  margin-bottom: 0%;
+  background: -webkit-radial-gradient(rgb(255, 255, 255), rgb(255, 221, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #d9ecc7;
+}
+
+.TextLine {
+  font-weight: lighter;
+  font-size: 2vh;
+  margin-bottom: 0%;
+  color: #ffd000;
+}
